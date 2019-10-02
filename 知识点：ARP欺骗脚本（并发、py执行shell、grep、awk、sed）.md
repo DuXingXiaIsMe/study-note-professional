@@ -502,7 +502,7 @@ print "Exiting Main Thread"
 
 ## 1.模块OS
 
-###(1) os.system()
+### (1) os.system()
 
 不能保存执行的结果
 
