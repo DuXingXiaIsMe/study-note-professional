@@ -1,1 +1,1 @@
-# study-note-professional
+# 专科知识学习笔记
