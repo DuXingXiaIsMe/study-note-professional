@@ -127,11 +127,11 @@ while 1:
 
 有两个模块：thread 、 threading  都提供了Thread类
 
-###(1)模块thread
+### (1)模块thread
 
 thread：提供低级别、原始的线程和简单的锁
 
-###(2)模块threading
+### (2)模块threading
 
 threading：提供高级方法
 
